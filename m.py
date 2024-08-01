@@ -358,7 +358,7 @@ def show_help(message):
 💥 /admincmd : Shows All Admin Commands.
 
 Buy From :- @Owais0439
-Official Channel :- https://t.me/DDOS
+Official Channel :- https://t.me/owais0439
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
